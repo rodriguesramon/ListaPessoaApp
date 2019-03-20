@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ListaPessoaApp.PageListViewPessoa"
+             Title="Lista Pessoa">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Voltar" Clicked="Voltar"/>
+    </ContentPage.ToolbarItems>
+    
+    <ListView x:Name="listView_dadosPessoas">
+        <ListView.ItemTemplate>
+            <DataTemplate >
+                <TextCell 
+                    Text="{Binding nomeCompleto}"
+                    Detail="Detalhe do item na lista"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+   
+</ContentPage>

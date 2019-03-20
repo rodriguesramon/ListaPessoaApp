@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A35BA1F8-058B-430F-93E7-7A3A12A1D6FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaPessoaApp.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaPessoaApp/Model/Pessoa.cs">
+    <Files>
+      <File FileName="ListaPessoaApp/MainPage.xaml" Line="37" Column="40" />
+      <File FileName="ListaPessoaApp/MainPage.xaml.cs" Line="27" Column="64" />
+      <File FileName="ListaPessoaApp/PageListViewPessoa.xaml" Line="5" Column="35" />
+      <File FileName="ListaPessoaApp/PageListViewPessoa.xaml.cs" Line="12" Column="23" />
+      <File FileName="ListaPessoaApp/Model/Pessoa.cs" Line="9" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaPessoaApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.199DDBD7-AF81-4DD5-8532-7CE20414E524" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
